@@ -1,10 +1,9 @@
 /*
-	Parallelism by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	AJ _ J P S - Music Producer / Humanoid
+	ajjps.com
 */
 
-var parallelism = (function($) { var _ = {
+var AJ _ J P S = (function($) { var _ = {
 
 	/******************************/
 	/* Properties                 */
@@ -14,10 +13,10 @@ var parallelism = (function($) { var _ = {
 			settings: {
 
 				// Popup overlay color.
-					popupOverlayColor: '#1a1f2c',
+					popupOverlayColor: '#ffd700',
 
 				// Popup overlay opacity.
-					popupOverlayOpacity: 0.75,
+					popupOverlayOpacity: 0.25,
 
 				// Mobile only.
 
@@ -30,13 +29,13 @@ var parallelism = (function($) { var _ = {
 						centerVertically: true,
 
 					// Delay (in ms) before showing the reel.
-						introDelay: 600,
+						introDelay: 500,
 
 					// Speed (in ms) at which to fade in reel.
 						introSpeed: 750,
 
 					// Height (in px) of items.
-						itemHeight: 230,
+						itemHeight: 330,
 
 					// Default width (in px) of width.
 						itemWidth: 300,
@@ -60,7 +59,7 @@ var parallelism = (function($) { var _ = {
 						padding: 5,
 
 					// Padding color.
-						paddingColor: '#fff',
+						paddingColor: '#ffd700',
 
 					// If true, reel scroll will reset on page refresh.
 						resetScroll: true,
