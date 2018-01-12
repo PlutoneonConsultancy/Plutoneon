@@ -36,7 +36,7 @@ var parallelism = (function($) { var _ = {
 						introSpeed: 750,
 
 					// Height (in px) of items.
-						itemHeight: 330,
+						itemHeight: 280,
 
 					// Default width (in px) of width.
 						itemWidth: 300,
