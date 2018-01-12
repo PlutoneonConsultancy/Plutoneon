@@ -1,9 +1,10 @@
 /*
-	AJ _ J P S - Music Producer / Humanoid
-	ajjps.com
+	Parallelism by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-var AJ _ J P S = (function($) { var _ = {
+var parallelism = (function($) { var _ = {
 
 	/******************************/
 	/* Properties                 */
