@@ -17,7 +17,7 @@ var parallelism = (function($) { var _ = {
 					popupOverlayColor: '#ffd700',
 
 				// Popup overlay opacity.
-					popupOverlayOpacity: 0.25,
+					popupOverlayOpacity: 0.75,
 
 				// Mobile only.
 
@@ -36,7 +36,7 @@ var parallelism = (function($) { var _ = {
 						introSpeed: 750,
 
 					// Height (in px) of items.
-						itemHeight: 250,
+						itemHeight: 270,
 
 					// Default width (in px) of width.
 						itemWidth: 300,
