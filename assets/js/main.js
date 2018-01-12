@@ -14,10 +14,10 @@ var parallelism = (function($) { var _ = {
 			settings: {
 
 				// Popup overlay color.
-					popupOverlayColor: '#ffd700',
+					popupOverlayColor: '#c0c0c0',
 
 				// Popup overlay opacity.
-					popupOverlayOpacity: 0.75,
+					popupOverlayOpacity: 0.45,
 
 				// Mobile only.
 
