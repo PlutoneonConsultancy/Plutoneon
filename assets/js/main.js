@@ -341,7 +341,7 @@ var parallelism = (function($) { var _ = {
 										$itemInner.h5u_xcss('transition', 'opacity ' + (_.settings.thumbSpeed / 1000.00) + 's ease-in-out');
 
 										window.setTimeout(function() {
-											$itemInner.css('opacity', 0.3);
+											$itemInner.css('opacity', 1);
 										}, _.settings.thumbDelay + Math.floor(Math.random() * _.settings.thumbDelaySpread));
 
 									}
