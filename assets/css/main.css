@@ -365,12 +365,12 @@
 					display: block;
 					width: 48px;
 					height: 48px;
-					position: absolute;
-					top: 25%;
-					left: 25%;
+					position: inherit;
+					top: 50%;
+					left: 50%;
 					margin: -24px 0 0 -24px;
 					background: url("images/loader.gif");
-					opacity: 0.4;
+					opacity: 0.6;
 				}
 
 				.poptrox-popup .caption {
