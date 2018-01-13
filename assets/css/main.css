@@ -121,7 +121,7 @@
 			}
 
 			ul.contact li a {
-				opacity: 0.35;
+				opacity: 0.55;
 				color: #fff;
 				-moz-transition: opacity 0.25s ease-in-out;
 				-webkit-transition: opacity 0.25s ease-in-out;
@@ -130,7 +130,7 @@
 			}
 
 				ul.contact li a:hover {
-					opacity: 1.0;
+					opacity: 0.9;
 				}
 
 /* Item */
@@ -139,7 +139,7 @@
 		display: block;
 		position: relative;
 		background: #1a1f2c;
-		background: rgba(255, 255, 255, 0.25);
+		background: rgba(255, 255, 255, 0.35);
 		cursor: default;
 	}
 
@@ -342,7 +342,7 @@
 					margin-left: 1em;
 					padding-left: 1em;
 					border-left: solid 1px #333;
-					border-left-color: rgba(255, 255, 255, 0.25);
+					border-left-color: rgba(255, 255, 255, 0.35);
 					line-height: 1em;
 				}
 
@@ -370,7 +370,7 @@
 					left: 50%;
 					margin: -24px 0 0 -24px;
 					background: url("images/loader.gif");
-					opacity: 0.6;
+					opacity: 0.8;
 				}
 
 				.poptrox-popup .caption {
