@@ -356,7 +356,7 @@
 
 			.poptrox-popup {
 				background: #1a1f2c;
-				background: rgba(18, 21, 29, 0.9);
+				background: rgba(18, 21, 29, 0.3);
 				box-shadow: 0px 0px 0px 10px #fff, 0px 10px 60px 10px rgba(8, 11, 19, 0.55);
 				cursor: default;
 			}
@@ -378,7 +378,7 @@
 					bottom: 0;
 					left: 0;
 					background: #1a1f2c;
-					background: rgba(18, 21, 29, 0.25);
+					background: rgba(18, 21, 29, 0.3);
 					display: block;
 					width: 100%;
 					line-height: 75px;
@@ -395,7 +395,7 @@
 					-webkit-transition: opacity 0.25s ease-in-out;
 					-ms-transition: opacity 0.25s ease-in-out;
 					transition: opacity 0.25s ease-in-out;
-					opacity: 0.35;
+					opacity: 0.45;
 				}
 
 					.poptrox-popup .nav-next:hover, .poptrox-popup .nav-previous:hover, .poptrox-popup .closer:hover {
