@@ -267,7 +267,7 @@ var parallelism = (function($) { var _ = {
 						window.setTimeout(function() {
 							_.objects.reel
 								.h5u_xcss('transition', 'opacity ' + (_.settings.introSpeed / 1000.00) + 's ease-in-out')
-								.css('opacity', 0.3);
+								.css('opacity', 1);
 						}, _.settings.introDelay);
 
 					}
@@ -341,7 +341,7 @@ var parallelism = (function($) { var _ = {
 										$itemInner.h5u_xcss('transition', 'opacity ' + (_.settings.thumbSpeed / 1000.00) + 's ease-in-out');
 
 										window.setTimeout(function() {
-											$itemInner.css('opacity', 1);
+											$itemInner.css('opacity', 0.3);
 										}, _.settings.thumbDelay + Math.floor(Math.random() * _.settings.thumbDelaySpread));
 
 									}
