@@ -267,7 +267,7 @@ var parallelism = (function($) { var _ = {
 						window.setTimeout(function() {
 							_.objects.reel
 								.h5u_xcss('transition', 'opacity ' + (_.settings.introSpeed / 1000.00) + 's ease-in-out')
-								.css('opacity', 1);
+								.css('opacity', 0.3);
 						}, _.settings.introDelay);
 
 					}
