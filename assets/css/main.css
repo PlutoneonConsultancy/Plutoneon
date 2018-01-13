@@ -399,7 +399,7 @@
 				}
 
 					.poptrox-popup .nav-next:hover, .poptrox-popup .nav-previous:hover, .poptrox-popup .closer:hover {
-						opacity: 1.0;
+						opacity: 0.2;
 					}
 
 				.poptrox-popup .nav-next, .poptrox-popup .nav-previous {
