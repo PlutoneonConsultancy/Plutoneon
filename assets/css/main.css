@@ -194,7 +194,7 @@
 
 	#header {
 		position: relative;
-		background: #000000 url("images/overlay.png");
+		background: #000000 url("images/loader.gif");
 		color: #fff;
 		cursor: default;
 	}
