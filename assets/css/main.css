@@ -370,7 +370,7 @@
 					left: 50%;
 					margin: -24px 0 0 -24px;
 					background: url("images/loader.gif");
-					opacity: 0.25;
+					opacity: 0.9;
 				}
 
 				.poptrox-popup .caption {
@@ -548,7 +548,7 @@
 				}
 
 				#footer .right {
-					border-top: solid 1px rgba(255, 255, 255, 0.1);
+					border-top: solid 1px rgba(255, 255, 255, 0.2);
 					margin: 4em 0 0 0;
 					padding: 4em 0 0 0;
 				}
