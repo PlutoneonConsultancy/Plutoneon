@@ -180,12 +180,7 @@
 		.icon > .label {
 			display: none;
 		}
-/* Button */
-        button{
-                border:0;
-     background:none;
-     /*And other css to remove the default button property */    
-}
+
 /* The Modal (background) */
         .modal {
                 display: none; /* Hidden by default */
