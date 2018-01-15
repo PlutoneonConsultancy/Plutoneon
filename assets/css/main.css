@@ -421,7 +421,7 @@
 				.poptrox-popup .nav-next {
 					right: 0;
 					text-align: right;
-					padding-right: 40px;
+					padding-right: 45px;
 				}
 
 					.poptrox-popup .nav-next:before {
@@ -431,7 +431,7 @@
 				.poptrox-popup .nav-previous {
 					left: 0;
 					text-align: left;
-					padding-left: 40px;
+					padding-left: 45px;
 				}
 
 					.poptrox-popup .nav-previous:before {
