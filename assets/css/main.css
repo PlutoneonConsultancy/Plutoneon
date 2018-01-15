@@ -173,7 +173,7 @@
 			-webkit-font-smoothing: antialiased;
 			font-family: FontAwesome;
 			font-style: normal;
-			font-weight: normal;
+			font-weight: bold;
 			text-transform: none !important;
 		}
 
@@ -342,7 +342,7 @@
 					margin-left: 1em;
 					padding-left: 1em;
 					border-left: solid 1px #333;
-					border-left-color: rgba(255, 255, 255, 0.3);
+					border-left-color: rgba(255, 255, 255, 0.45);
 					line-height: 1em;
 				}
 
@@ -548,7 +548,7 @@
 				}
 
 				#footer .right {
-					border-top: solid 1px rgba(255, 255, 255, 0.3);
+					border-top: solid 1px rgba(255, 255, 255, 0.45);
 					margin: 4em 0 0 0;
 					padding: 4em 0 0 0;
 				}
