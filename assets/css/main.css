@@ -395,11 +395,11 @@
 					-webkit-transition: opacity 0.25s ease-in-out;
 					-ms-transition: opacity 0.25s ease-in-out;
 					transition: opacity 0.25s ease-in-out;
-					opacity: 0.55;
+					opacity: 0.70;
 				}
 
 					.poptrox-popup .nav-next:hover, .poptrox-popup .nav-previous:hover, .poptrox-popup .closer:hover {
-						opacity: 0.55;
+						opacity: 0.70;
 					}
 
 				.poptrox-popup .nav-next, .poptrox-popup .nav-previous {
