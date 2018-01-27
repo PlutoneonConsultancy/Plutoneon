@@ -29,7 +29,7 @@
 		position: relative;
 		background-color: #12151D;
 		color: #999;
-		color: rgba(255, 255, 255, 0.6);
+		color: rgba(255, 255, 255, 0.35);
 		font-family: 'Source Sans Pro';
 		font-weight: 400;
 
@@ -163,7 +163,7 @@
 		cursor: default;
 
 		p {
-			opacity: 0.65;
+			opacity: 0.35;
 		}
 	}
 
@@ -316,7 +316,7 @@
 			.poptrox-popup {
 				background: #1a1f2c;
 				background: rgba(18, 21, 29, 0.9);
-				box-shadow: 0px 0px 0px 10px #fff, 0px 10px 60px 10px rgba(8, 11, 19, 0.70);
+				box-shadow: 0px 0px 0px 10px #fff, 0px 10px 60px 10px rgba(8, 11, 19, 0.40);
 				cursor: default;
 
 				.loader {
