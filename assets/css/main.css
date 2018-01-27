@@ -121,7 +121,7 @@
 			}
 
 			ul.contact li a {
-				opacity: 0.55;
+				opacity: 0.70;
 				color: #fff;
 				-moz-transition: opacity 0.25s ease-in-out;
 				-webkit-transition: opacity 0.25s ease-in-out;
@@ -148,7 +148,7 @@
 			bottom: 0;
 			left: 0;
 			background: #1a1f2c;
-			background: rgba(18, 21, 29, 0.35);
+			background: rgba(18, 21, 29, 0.55);
 			width: 100%;
 			padding: 1em;
 			font-weight: 400;
@@ -342,7 +342,7 @@
 					margin-left: 1em;
 					padding-left: 1em;
 					border-left: solid 1px #333;
-					border-left-color: rgba(255, 255, 255, 0.45);
+					border-left-color: rgba(255, 255, 255, 0.50);
 					line-height: 1em;
 				}
 
@@ -356,7 +356,7 @@
 
 			.poptrox-popup {
 				background: #1a1f2c;
-				background: rgba(18, 21, 29, 0.3);
+				background: rgba(18, 21, 29, 0.4);
 				box-shadow: 0px 0px 0px 10px #fff, 0px 10px 60px 10px rgba(8, 11, 19, 0.55);
 				cursor: default;
 			}
@@ -378,7 +378,7 @@
 					bottom: 0;
 					left: 0;
 					background: #1a1f2c;
-					background: rgba(18, 21, 29, 0.3);
+					background: rgba(18, 21, 29, 0.5);
 					display: block;
 					width: 100%;
 					line-height: 50px;
@@ -395,11 +395,11 @@
 					-webkit-transition: opacity 0.25s ease-in-out;
 					-ms-transition: opacity 0.25s ease-in-out;
 					transition: opacity 0.25s ease-in-out;
-					opacity: 0.70;
+					opacity: 0.65;
 				}
 
 					.poptrox-popup .nav-next:hover, .poptrox-popup .nav-previous:hover, .poptrox-popup .closer:hover {
-						opacity: 0.70;
+						opacity: 0.65;
 					}
 
 				.poptrox-popup .nav-next, .poptrox-popup .nav-previous {
@@ -561,7 +561,7 @@
 
 			.poptrox-popup {
 				background: #0a0f1c;
-				box-shadow: 0px 0px 20px 10px rgba(8, 11, 19, 0.35);
+				box-shadow: 0px 0px 20px 10px rgba(8, 11, 19, 0.45);
 				border: solid 2.5px #fff;
 				-moz-box-sizing: content-box;
 				-webkit-box-sizing: content-box;
