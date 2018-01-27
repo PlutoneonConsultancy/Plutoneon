@@ -62,7 +62,7 @@
 		position: relative;
 		background-color: #12151D;
 		color: #999;
-		color: rgba(255, 255, 255, 0.35);
+		color: rgba(255, 255, 255, 0.25);
 		font-family: 'Source Sans Pro';
 		font-weight: 400;
 	}
@@ -80,7 +80,7 @@
 
 	a {
 		color: #fff;
-		color: rgba(255, 255, 255, 0.85);
+		color: rgba(255, 255, 255, 0.65);
 		text-decoration: none;
 		-moz-transition: color 0.25s ease-in-out;
 		-webkit-transition: color 0.25s ease-in-out;
@@ -100,7 +100,7 @@
 
 	strong, b {
 		color: #fff;
-		color: rgba(255, 255, 255, 0.85);
+		color: rgba(255, 255, 255, 0.65);
 		font-weight: 600;
 	}
 
@@ -121,7 +121,7 @@
 			}
 
 			ul.contact li a {
-				opacity: 0.70;
+				opacity: 0.45;
 				color: #fff;
 				-moz-transition: opacity 0.25s ease-in-out;
 				-webkit-transition: opacity 0.25s ease-in-out;
@@ -130,7 +130,7 @@
 			}
 
 				ul.contact li a:hover {
-					opacity: 0.9;
+					opacity: 0.75;
 				}
 
 /* Item */
@@ -139,7 +139,7 @@
 		display: block;
 		position: relative;
 		background: #1a1f2c;
-		background: rgba(255, 255, 255, 0.35);
+		background: rgba(255, 255, 255, 0.25);
 		cursor: default;
 	}
 
@@ -148,7 +148,7 @@
 			bottom: 0;
 			left: 0;
 			background: #1a1f2c;
-			background: rgba(18, 21, 29, 0.45);
+			background: rgba(18, 21, 29, 0.25);
 			width: 100%;
 			padding: 1em;
 			font-weight: 400;
@@ -342,7 +342,7 @@
 					margin-left: 1em;
 					padding-left: 1em;
 					border-left: solid 1px #333;
-					border-left-color: rgba(255, 255, 255, 0.50);
+					border-left-color: rgba(255, 255, 255, 0.40);
 					line-height: 1em;
 				}
 
@@ -370,7 +370,7 @@
 					left: 50%;
 					margin: -24px 0 0 -24px;
 					background: url("images/loader.gif");
-					opacity: 0.8;
+					opacity: 0.55;
 				}
 
 				.poptrox-popup .caption {
@@ -378,7 +378,7 @@
 					bottom: 0;
 					left: 0;
 					background: #1a1f2c;
-					background: rgba(18, 21, 29, 0.35);
+					background: rgba(18, 21, 29, 0.55);
 					display: block;
 					width: 100%;
 					line-height: 50px;
@@ -395,11 +395,11 @@
 					-webkit-transition: opacity 0.25s ease-in-out;
 					-ms-transition: opacity 0.25s ease-in-out;
 					transition: opacity 0.25s ease-in-out;
-					opacity: 0.45;
+					opacity: 0.55;
 				}
 
 					.poptrox-popup .nav-next:hover, .poptrox-popup .nav-previous:hover, .poptrox-popup .closer:hover {
-						opacity: 0.45;
+						opacity: 0.55;
 					}
 
 				.poptrox-popup .nav-next, .poptrox-popup .nav-previous {
@@ -548,7 +548,7 @@
 				}
 
 				#footer .right {
-					border-top: solid 1px rgba(255, 255, 255, 0.45);
+					border-top: solid 1px rgba(255, 255, 255, 0.25);
 					margin: 4em 0 0 0;
 					padding: 4em 0 0 0;
 				}
@@ -561,7 +561,7 @@
 
 			.poptrox-popup {
 				background: #0a0f1c;
-				box-shadow: 0px 0px 20px 10px rgba(8, 11, 19, 0.25);
+				box-shadow: 0px 0px 20px 10px rgba(8, 11, 19, 0.45);
 				border: solid 2.5px #fff;
 				-moz-box-sizing: content-box;
 				-webkit-box-sizing: content-box;
