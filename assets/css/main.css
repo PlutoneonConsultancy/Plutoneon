@@ -62,7 +62,7 @@
 		position: relative;
 		background-color: #12151D;
 		color: #999;
-		color: rgba(255, 255, 255, 0.65);
+		color: rgba(255, 255, 255, 0.15);
 		font-family: 'Source Sans Pro';
 		font-weight: 400;
 	}
@@ -80,7 +80,7 @@
 
 	a {
 		color: #fff;
-		color: rgba(255, 255, 255, 0.65);
+		color: rgba(255, 255, 255, 0.15);
 		text-decoration: none;
 		-moz-transition: color 0.25s ease-in-out;
 		-webkit-transition: color 0.25s ease-in-out;
@@ -100,7 +100,7 @@
 
 	strong, b {
 		color: #fff;
-		color: rgba(255, 255, 255, 0.55);
+		color: rgba(255, 255, 255, 0.15);
 		font-weight: 600;
 	}
 
