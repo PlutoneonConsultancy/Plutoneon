@@ -121,7 +121,7 @@
 			}
 
 			ul.contact li a {
-				opacity: 0.5;
+				opacity: 0.15;
 				color: #fff;
 				-moz-transition: opacity 0.25s ease-in-out;
 				-webkit-transition: opacity 0.25s ease-in-out;
@@ -130,7 +130,7 @@
 			}
 
 				ul.contact li a:hover {
-					opacity: 0.45;
+					opacity: 0.15;
 				}
 
 /* Item */
