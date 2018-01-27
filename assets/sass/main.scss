@@ -99,7 +99,7 @@
 			display: block;
 			position: relative;
 			background: #1a1f2c;
-			background: rgba(255, 255, 255, 0.35);
+			background: rgba(255, 255, 255, 0.75);
 			cursor: default;
 
 			h2 {
@@ -315,7 +315,7 @@
 
 			.poptrox-popup {
 				background: #1a1f2c;
-				background: rgba(18, 21, 29, 0.9);
+				background: rgba(18, 21, 29, 0.7);
 				box-shadow: 0px 0px 0px 10px #fff, 0px 10px 60px 10px rgba(8, 11, 19, 0.40);
 				cursor: default;
 
@@ -328,7 +328,7 @@
 					left: 50%;
 					margin: -24px 0 0 -24px;
 					background: url('images/loader.gif');
-					opacity: 0.35;
+					opacity: 0.65;
 				}
 
 				.caption {
@@ -336,7 +336,7 @@
 					bottom: 0;
 					left: 0;
 					background: #1a1f2c;
-					background: rgba(18, 21, 29, 0.85);
+					background: rgba(18, 21, 29, 0.65);
 					display: block;
 					width: 100%;
 					line-height: 75px;
