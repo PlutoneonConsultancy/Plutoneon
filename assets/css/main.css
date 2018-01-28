@@ -100,7 +100,7 @@
 
 	strong, b {
 		color: #fff;
-		color: rgba(255, 255, 255, 0.70);
+		color: rgba(255, 255, 255, 0.90);
 		font-weight: 600;
 	}
 
@@ -173,7 +173,7 @@
 			-webkit-font-smoothing: antialiased;
 			font-family: FontAwesome;
 			font-style: normal;
-			font-weight: normal;
+			font-weight: bold;
 			text-transform: none !important;
 		}
 
