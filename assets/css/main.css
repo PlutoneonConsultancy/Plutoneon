@@ -507,12 +507,7 @@
 
 		#wrapper {
 				height: 100%;
-				overflow: hidden;
 			        overflow-x:hidden;
-				-moz-transition: -moz-filter 0.25s ease-in-out;
-				-webkit-transition: -webkit-filter 0.25s ease-in-out;
-				-ms-transition: -ms-filter 0.25s ease-in-out;
-				transition: filter 0.25s ease-in-out;
 			}	
 		#wrapper.overlayed {
 				-moz-filter: blur(1px);
