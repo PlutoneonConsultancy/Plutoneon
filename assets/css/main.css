@@ -506,9 +506,9 @@
 		/* Wrapper */
 
 		#wrapper {
-				height: 100%;
-			        overflow-x:hidden;
-			}	
+		position: relative;
+		z-index: 1;
+	}	
 		#wrapper.overlayed {
 				-moz-filter: blur(1px);
 				-webkit-filter: blur(1px);
