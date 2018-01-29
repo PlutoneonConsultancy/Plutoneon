@@ -300,7 +300,8 @@
 				}
 		                #header .left {
 					display: inline-block;
-					horizontal-align: left;
+					position: absolute;
+                                        left: 15px;
 				}
 
 				#header h1 {
