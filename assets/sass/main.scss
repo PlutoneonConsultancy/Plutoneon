@@ -14,8 +14,8 @@
 	@import "libs/skel";
 
 	@include skel-breakpoints((
-		desktop: '(min-width: 768px)',
-		mobile: '(max-width: 767px)'
+		desktop: '(min-width: 1025px)',
+		mobile: '(max-width: 1024px)'
 	));
 
 	@include skel-layout((
