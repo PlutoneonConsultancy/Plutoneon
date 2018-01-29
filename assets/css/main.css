@@ -299,8 +299,8 @@
 					vertical-align: middle;
 				}
 		                #header .left {
-					display: inline-block;
-					left: 15px;
+					padding: 2em;
+					text-align: left;
 				}
 
 				#header h1 {
