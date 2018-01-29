@@ -301,7 +301,7 @@
 		                #header .left {
                                         display: inline-block;
 					text-align: left;
-					margin: 2em 100 100 100;
+					margin: 0px 50px 0px;
                                 }
 				#header h1 {
 					font-size: 3em;
