@@ -299,7 +299,7 @@
 					vertical-align: middle;
 				}
 		                #header .left {
-					padding: 2em;
+					display: inline-block;
 					text-align: left;
 				}
 
