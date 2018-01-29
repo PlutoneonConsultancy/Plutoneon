@@ -300,7 +300,9 @@
 				}
 		                #header .left {
                                         display: inline-block;
-					left: -50px;
+					padding: 2em;
+					text-align: left;
+					left: 50px;
                                 }
 				#header h1 {
 					font-size: 3em;
