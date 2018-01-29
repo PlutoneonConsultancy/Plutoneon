@@ -298,7 +298,7 @@
 					display: inline-block;
 					vertical-align: middle;
 				}
-		                #header .left {
+		                #header .headericons {
                                         display: inline-block;
 					margin-left: 1.75em;
                                 }
@@ -522,7 +522,10 @@
 		                padding: 2.5em 1.5em;
 				text-align: center;
 			}
-
+                                #header .headericons {
+                                        display: inline-block;
+					margin-left: 1.75em;
+                                }
 				#header h1 {
 					font-size: 2em;
 				}
