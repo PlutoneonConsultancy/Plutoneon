@@ -299,7 +299,9 @@
 					vertical-align: middle;
 				}
 		                #header .left {
-                                        padding: 2em;
+                                        display: inline-block;
+					vertical-align: bottom;
+					padding: 2em;
 					text-align: left;
                                 }
 				#header h1 {
