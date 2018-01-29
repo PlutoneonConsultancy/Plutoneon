@@ -507,10 +507,10 @@
 		/* Wrapper */
 	
 		#wrapper.overlayed {
-				-moz-filter: blur(3px);
-				-webkit-filter: blur(3px);
-				-ms-filter: blur(3px);
-				filter: blur(3px);
+				-moz-filter: blur(0.5px);
+				-webkit-filter: blur(0.5px);
+				-ms-filter: blur(0.5px);
+				filter: blur(0.5px);
 			}
 		
 		/* Header */
