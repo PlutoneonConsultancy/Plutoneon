@@ -524,8 +524,8 @@
 			}
                                 #header .headericons {
                                         position: absolute;
-                                        bottom: 10px;
-					text-align: right;
+                                        bottom: 30px;
+					text-align: left;
                                 }
 				#header h1 {
 					font-size: 2em;
