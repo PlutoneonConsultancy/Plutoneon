@@ -516,10 +516,7 @@
 		/* Header */
 
 			#header {
-				position: relative;
-		background: #d64760 url("images/loader.gif");
-		color: #fff;
-		cursor: default;
+		                background: #d64760 url("images/loader.gif");
 				padding: 2.5em 1.5em;
 				text-align: center;
 			}
