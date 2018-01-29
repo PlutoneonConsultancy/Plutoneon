@@ -300,7 +300,7 @@
 				}
 		                #header .left {
                                         display: inline-block;
-					vertical-align: middle;
+					padding: 2em;
 					text-align: left;
                                 }
 				#header h1 {
