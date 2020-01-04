@@ -122,7 +122,7 @@
 
 			ul.contact li a {
 				opacity: 0.75;
-				color: #fff;
+				color: #a3902a;
 				-moz-transition: opacity 0.25s ease-in-out;
 				-webkit-transition: opacity 0.25s ease-in-out;
 				-ms-transition: opacity 0.25s ease-in-out;
@@ -196,7 +196,7 @@
 	#header {
 		position: relative;
 		background: #707070 url("images/loader.gif");
-		color: #fff;
+		color: #a3902a;
 		cursor: default;
 	}
 
@@ -453,7 +453,7 @@
 					right: -70px;
 					cursor: pointer;
 					border-radius: 40px;
-					box-shadow: 0px 0px 0px 1px #fff;
+					box-shadow: 0px 0px 0px 1px #a3902a;
 				}
 
 					.poptrox-popup .closer:before {
@@ -569,7 +569,7 @@
 			.poptrox-popup {
 				background: #0a0f1c;
 				box-shadow: 0px 0px 20px 10px rgba(8, 11, 19, 0.35);
-				border: solid 2.5px #fff;
+				border: solid 2.5px #a3902a;
 				-moz-box-sizing: content-box;
 				-webkit-box-sizing: content-box;
 				-ms-box-sizing: content-box;
