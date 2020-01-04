@@ -131,7 +131,7 @@
 
 				ul.contact li a:hover {
 					opacity: 0.95;
-					color: #ffd700;
+					color: #706f67;
 				}
 
 /* Item */
@@ -388,7 +388,7 @@
 					line-height: 50px;
 					text-align: center;
 					font-size: 1.25em;
-					color: #fff;
+					color: #a3902a;
 				}
 
 				.poptrox-popup .nav-next, .poptrox-popup .nav-previous, .poptrox-popup .closer {
