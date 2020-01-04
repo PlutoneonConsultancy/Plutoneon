@@ -14,7 +14,7 @@ var parallelism = (function($) { var _ = {
 			settings: {
 
 				// Popup overlay color.
-					popupOverlayColor: '#c0c0c0',
+					popupOverlayColor: '#706f67',
 
 				// Popup overlay opacity.
 					popupOverlayOpacity: 0.45,
