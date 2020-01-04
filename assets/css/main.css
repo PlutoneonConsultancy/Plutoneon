@@ -79,7 +79,7 @@
 		}
 
 	a {
-		color: #fff;
+		color: #a3902a;
 		color: rgba(255, 255, 255, 0.7);
 		text-decoration: none;
 		-moz-transition: color 0.25s ease-in-out;
@@ -345,7 +345,7 @@
 					display: inline-block;
 					margin-left: 1em;
 					padding-left: 1em;
-					border-left: solid 1px #333;
+					border-left: solid 1px #a3902a;
 					border-left-color: rgba(255, 255, 255, 0.75);
 					line-height: 1em;
 				}
