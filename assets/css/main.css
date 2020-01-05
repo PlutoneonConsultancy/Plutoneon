@@ -89,7 +89,7 @@
 	}
 
 		a:hover {
-			color: #ffd700;
+			color: #c70202;
 		}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -131,7 +131,7 @@
 
 				ul.contact li a:hover {
 					opacity: 0.95;
-					color: #706f67;
+					color: #c70202;
 				}
 
 /* Item */
