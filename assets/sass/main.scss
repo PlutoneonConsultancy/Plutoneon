@@ -42,7 +42,7 @@
 	}
 
 	a {
-		color: #b39e36;
+		color: #a3902a;
 		color: rgba(255, 255, 255, 0.85);
 		text-decoration: none;
 		@include vendor('transition', 'color 0.25s ease-in-out');
@@ -54,12 +54,12 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
-		color: #fff;
+		color: #a3902a;
 		letter-spacing: -0.05em;
 	}
 
 	strong, b {
-		color: #fff;
+		color: #a3902a;
 		color: rgba(255, 255, 255, 0.85);
 		font-weight: 600;
 	}
@@ -81,7 +81,7 @@
 
 				a {
 					opacity: 0.35;
-					color: #fff;
+					color: #a3902a;
 					@include vendor('transition', 'opacity 0.25s ease-in-out');
 
 					&:hover {
@@ -159,7 +159,7 @@
 	#header {
 		position: relative;
 		background: #d64760 url('images/overlay.png');
-		color: #fff;
+		color: #a3902a;
 		cursor: default;
 
 		p {
@@ -516,7 +516,7 @@
 			.poptrox-popup {
 				background: #0a0f1c;
 				box-shadow: 0px 0px 30px 10px rgba(8, 11, 19, 0.85);
-				border: solid 2.5px #fff;
+				border: solid 2.5px #a3902a;
 				@include vendor('box-sizing', 'content-box');
 			}
 
