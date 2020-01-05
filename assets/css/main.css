@@ -139,7 +139,7 @@
 	.item.thumb {
 		display: block;
 		position: relative;
-		background: #1a1f2c;
+		background: #a3902a;
 		background: rgba(255, 255, 255, 0.25);
 		cursor: default;
 	}
@@ -149,7 +149,7 @@
 			bottom: 0;
 			left: 0;
 			background: #a3902a;
-			background: rgba(18, 21, 29, 0.45);
+			background: rgba(18, 21, 29, 0.50);
 			width: 100%;
 			padding: 1em;
 			font-weight: 400;
