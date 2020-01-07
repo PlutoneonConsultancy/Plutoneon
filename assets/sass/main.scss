@@ -107,7 +107,7 @@
 				bottom: 0;
 				left: 0;
 				background: #a3902a;
-				background: rgba(18, 21, 29, 0.85);
+				background: rgba(163,144,42,1);
 				width: 100%;
 				padding: 1em;
 				font-weight: 400;
@@ -298,8 +298,8 @@
 						display: inline-block;
 						margin-left: 1em;
 						padding-left: 1em;
-						border-left: solid 1px #333;
-						border-left-color: rgba(255, 255, 255, 0.25);
+						border-left: solid 1px #a3902a;
+						border-left-color: rgba(163,144,42,1);
 						line-height: 1em;
 
 						&:first-child {
@@ -335,8 +335,8 @@
 					position: absolute;
 					bottom: 0;
 					left: 0;
-					background: #1a1f2c;
-					background: rgba(18, 21, 29, 0.65);
+					background: #a3902a;
+					background: rgba(163,144,42,1);
 					display: block;
 					width: 100%;
 					line-height: 75px;
@@ -501,7 +501,7 @@
 				}
 
 				.right {
-					border-top: solid 1px rgba(255, 255, 255, 0.1);
+					border-top: solid 1px rgba(163,144,42,1);
 					margin: 4em 0 0 0;
 					padding: 4em 0 0 0;
 				}
