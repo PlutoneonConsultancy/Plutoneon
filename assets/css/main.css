@@ -80,7 +80,7 @@
 
 	a {
 		color: #a3902a;
-		color: rgba(163,144,42,1);
+		color: rgba(163,144,42,0.7);
 		text-decoration: none;
 		-moz-transition: color 0.25s ease-in-out;
 		-webkit-transition: color 0.25s ease-in-out;
@@ -140,7 +140,7 @@
 		display: block;
 		position: relative;
 		background: #a3902a;
-		background: rgba(163,144,42,1);
+		background: rgba(163,144,42,0.25);
 		cursor: default;
 	}
 
@@ -149,7 +149,7 @@
 			bottom: 0;
 			left: 0;
 			background: #a3902a;
-			background: rgba(163,144,42,1);
+			background: rgba(163,144,42,0.15);
 			width: 100%;
 			padding: 1em;
 			font-weight: 400;
@@ -346,7 +346,7 @@
 					margin-left: 1em;
 					padding-left: 1em;
 					border-left: solid 1px #a3902a;
-					border-left-color: rgba(163,144,42,1);
+					border-left-color: rgba(163,144,42,0.75);
 					line-height: 1em;
 				}
 
@@ -360,7 +360,7 @@
 
 			.poptrox-popup {
 				background: #1a1f2c;
-				background: rgba(163,144,42,1);
+				background: rgba(163,144,42,0.3);
 				box-shadow: 0px 0px 0px 10px #fff, 0px 10px 60px 10px rgba(8, 11, 19, 0.35);
 				cursor: default;
 			}
@@ -382,7 +382,7 @@
 					bottom: 0;
 					left: 0;
 					background: #a3902a;
-					background: rgba(163,144,42,1);
+					background: rgba(163,144,42,0.35);
 					display: block;
 					width: 100%;
 					line-height: 50px;
