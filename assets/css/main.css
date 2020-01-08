@@ -140,7 +140,7 @@
 		display: block;
 		position: relative;
 		background: #a3902a;
-		background: rgba(163,144,42,0.25);
+		background: rgba(112,112,112,0.25);
 		cursor: default;
 	}
 
@@ -149,7 +149,7 @@
 			bottom: 0;
 			left: 0;
 			background: #a3902a;
-			background: rgba(112, 112, 112, 0.25);
+			background: rgba(112,112,112,0.25);
 			width: 100%;
 			padding: 1em;
 			font-weight: 400;
