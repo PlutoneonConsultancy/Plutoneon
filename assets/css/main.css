@@ -60,7 +60,7 @@
 
 	body {
 		position: relative;
-		background-color: #12151D;
+		background-color: #999999;
 		color: #999;
 		color: rgba(163,144,42,1);
 		font-family: 'Source Sans Pro';
@@ -80,7 +80,7 @@
 
 	a {
 		color: #999999;
-		color: rgb(18, 21, 29,1);
+		color: rgba(163,144,42,1);
 		text-decoration: none;
 		-moz-transition: color 0.4s ease-in-out;
 		-webkit-transition: color 0.2s ease-in-out;
