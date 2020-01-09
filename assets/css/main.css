@@ -82,10 +82,10 @@
 		color: #a3902a;
 		color: rgba(163,144,42,1);
 		text-decoration: none;
-		-moz-transition: color 0.20s ease-in-out;
-		-webkit-transition: color 0.20s ease-in-out;
-		-ms-transition: color 0.20s ease-in-out;
-		transition: color 0.20s ease-in-out;
+		-moz-transition: color 0.2s ease-in-out;
+		-webkit-transition: color 0.2s ease-in-out;
+		-ms-transition: color 0.2s ease-in-out;
+		transition: color 0.2s ease-in-out;
 	}
 
 		a:hover {
@@ -123,10 +123,10 @@
 			ul.contact li a {
 				opacity: 0.75;
 				color: #a3902a;
-				-moz-transition: opacity 0.25s ease-in-out;
-				-webkit-transition: opacity 0.25s ease-in-out;
-				-ms-transition: opacity 0.25s ease-in-out;
-				transition: opacity 0.25s ease-in-out;
+				-moz-transition: opacity 0.2s ease-in-out;
+				-webkit-transition: opacity 0.2s ease-in-out;
+				-ms-transition: opacity 0.2s ease-in-out;
+				transition: opacity 0.2s ease-in-out;
 			}
 
 				ul.contact li a:hover {
@@ -140,7 +140,7 @@
 		display: block;
 		position: relative;
 		background: #a3902a;
-		background: rgba(112,112,112,0.25);
+		background: rgba(112,112,112,0.5);
 		cursor: default;
 	}
 
