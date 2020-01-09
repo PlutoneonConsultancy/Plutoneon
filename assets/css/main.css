@@ -80,7 +80,7 @@
 
 	a {
 		color: #a3902a;
-		color: rgba(163,144,42,1);
+		color: rgba(153,153,153,1);
 		text-decoration: none;
 		-moz-transition: color 0.4s ease-in-out;
 		-webkit-transition: color 0.2s ease-in-out;
@@ -94,13 +94,13 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
-		color: #999999;
+		color: #a3902a;
 		letter-spacing: -0.05em;
 	}
 
 	strong, b {
-		color: #999999;
-		color: rgba(163,144,42,1);
+		color: #a3902a;
+		color: rgba(153,153,153,1);
 		font-weight: 600;
 	}
 
