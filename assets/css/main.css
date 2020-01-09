@@ -60,8 +60,8 @@
 
 	body {
 		position: relative;
-		background-color: #999999;
-		color: #999;
+		background-color: #a3902a;
+		color: #a3902a;
 		color: rgba(163,144,42,1);
 		font-family: 'Source Sans Pro';
 		font-weight: 500;
@@ -79,7 +79,7 @@
 		}
 
 	a {
-		color: #999999;
+		color: #a3902a;
 		color: rgba(163,144,42,1);
 		text-decoration: none;
 		-moz-transition: color 0.4s ease-in-out;
@@ -94,13 +94,13 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
-		color: #a3902a;
+		color: #999999;
 		letter-spacing: -0.05em;
 	}
 
 	strong, b {
-		color: #a3902a;
-		color: rgba(255, 255, 255, 0.85);
+		color: #999999;
+		color: rgba(163,144,42,1);
 		font-weight: 600;
 	}
 
