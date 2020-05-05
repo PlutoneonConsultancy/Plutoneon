@@ -39,7 +39,7 @@ var parallelism = (function($) { var _ = {
 						itemHeight: 200,
 
 					// Default width (in px) of width.
-						itemWidth: 230,
+						itemWidth: 180,
 
 					// Margin (in px) to preserve at the bottom of the viewport.
 						marginBottom: 30,
