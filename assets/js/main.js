@@ -30,16 +30,16 @@ var parallelism = (function($) { var _ = {
 						centerVertically: true,
 
 					// Delay (in ms) before showing the reel.
-						introDelay: 500,
+						introDelay: 200,
 
 					// Speed (in ms) at which to fade in reel.
-						introSpeed: 750,
+						introSpeed: 850,
 
 					// Height (in px) of items.
-						itemHeight: 285,
+						itemHeight: 235,
 
 					// Default width (in px) of width.
-						itemWidth: 350,
+						itemWidth: 300,
 
 					// Margin (in px) to preserve at the bottom of the viewport.
 						marginBottom: 0,
