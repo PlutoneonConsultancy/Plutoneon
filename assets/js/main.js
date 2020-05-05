@@ -36,19 +36,19 @@ var parallelism = (function($) { var _ = {
 						introSpeed: 850,
 
 					// Height (in px) of items.
-						itemHeight: 300,
+						itemHeight: 200,
 
 					// Default width (in px) of width.
-						itemWidth: 230,
+						itemWidth: 130,
 
 					// Margin (in px) to preserve at the bottom of the viewport.
-						marginBottom: 20,
+						marginBottom: 40,
 
 					// Margin (in px) to preserve at the top of the viewport.
 						marginTop: 0,
 
 					// Nudge the reel by this value (in px) after it's been vertically centered.
-						verticalNudge: -100,
+						verticalNudge: -110,
 
 					// Maximum number of rows.
 						maxRows: 4,
