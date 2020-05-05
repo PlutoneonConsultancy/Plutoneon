@@ -36,13 +36,13 @@ var parallelism = (function($) { var _ = {
 						introSpeed: 850,
 
 					// Height (in px) of items.
-						itemHeight: 235,
+						itemHeight: 390,
 
 					// Default width (in px) of width.
-						itemWidth: 300,
+						itemWidth: 360,
 
 					// Margin (in px) to preserve at the bottom of the viewport.
-						marginBottom: 0,
+						marginBottom: 40,
 
 					// Margin (in px) to preserve at the top of the viewport.
 						marginTop: 0,
@@ -84,7 +84,7 @@ var parallelism = (function($) { var _ = {
 						scrollZoneWidth: 40,
 
 					// Delay (in ms) before showing thumbnails.
-						thumbDelay: 1200,
+						thumbDelay: 600,
 
 					// Spread (in ms) to randomly stagger thumbnails (0 = don't stagger).
 						thumbDelaySpread: 1500,
