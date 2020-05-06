@@ -39,10 +39,10 @@ var parallelism = (function($) { var _ = {
 						itemHeight: 230,
 
 					// Default width (in px) of width.
-						itemWidth: 280,
+						itemWidth: 260,
 
 					// Margin (in px) to preserve at the bottom of the viewport.
-						marginBottom: 40,
+						marginBottom: 30,
 
 					// Margin (in px) to preserve at the top of the viewport.
 						marginTop: 0,
@@ -54,7 +54,7 @@ var parallelism = (function($) { var _ = {
 						maxRows: 4,
 
 					// Minimum number of rows.
-						minRows: 3,
+						minRows: 2,
 
 					// Padding (in px) between items (0 = no padding).
 						padding: 5,
