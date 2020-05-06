@@ -157,7 +157,7 @@
 /* Header */
 
 	#header {
-		position: fixed;
+		position: relative;
 		background: #d64760 url('images/overlay.png');
 		color: #a3902a;
 		cursor: default;
@@ -179,15 +179,15 @@
 
 			body {
 				@include vendor('background-image', ('url("images/overlay.png")', 'linear-gradient(top, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.65))', 'url("../../images/bg.jpg")'));
-				background-position: top left, bottom left, auto;
+				background-position: centered;
 				background-size: auto, 100% 100%, cover;
-				background-repeat: repeat, no-repeat, auto;
+				background-repeat: space;
 				padding: 0;
 				font-size: 12pt;
 				line-height: 1.75em;
 				height: 100%;
-				min-height: 450px;
-				min-width: 1000px;
+				min-height: 1078px;
+				min-width: 1920px;
 			}
 
 		/* List */
