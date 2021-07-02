@@ -194,7 +194,7 @@
 /* Header */
 
 	#header {
-		position: relative;
+		position: center;
 		background: #d64760 url("images/loader.gif");
 		color: #fff;
 		cursor: default;
