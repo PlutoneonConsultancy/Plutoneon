@@ -11214,7 +11214,7 @@ a:hover {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  height: 110px;
+  height: 140px;
   -webkit-transition: all, 0.5s;
   transition: all, 0.5s;
 }
