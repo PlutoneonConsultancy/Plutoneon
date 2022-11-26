@@ -11537,8 +11537,9 @@ a:hover {
 
 .header .header-content .header-subtitle {
   opacity: 1;
+  margin-top: 30px;
   margin-bottom: 30px;
-  padding-block: min(40vh, 40rem);
+  padding-block: min(25vh, 25rem);
 }
 
 .header .header-content .btn-theme-color {
