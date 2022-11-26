@@ -11538,7 +11538,7 @@ a:hover {
 .header .header-content .header-subtitle {
   opacity: 1;
   margin-bottom: 30px;
-  padding-block: min(20vh, 10rem);
+  padding-block: min(40vh, 40rem);
 }
 
 .header .header-content .btn-theme-color {
