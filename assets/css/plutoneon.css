@@ -7593,7 +7593,6 @@ button.bg-dark:focus {
 }
 
 .embed-responsive .embed-responsive-item,
-.embed-responsive iframe,
 .embed-responsive embed,
 .embed-responsive object,
 .embed-responsive video {
@@ -7605,7 +7604,25 @@ button.bg-dark:focus {
   height: 100%;
   border: 0;
 }
+iframe {
+    height: 500px;
+    width: 125%;
+    transform: scale(0.8); 
+    transform-origin: 0 0;
+}
+			
+			.iframe { 
+				    height: 400px;
+				    width: 100%;
+				}
+			.responsive-iframe {
+				    height: 500px;
+				    width: 125%; 
 
+				    transform: scale(0.8); 
+				    transform-origin: 0 0;
+				}
+			}
 .embed-responsive-21by9::before {
   padding-top: 42.85714%;
 }
