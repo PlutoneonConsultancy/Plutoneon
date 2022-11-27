@@ -584,7 +584,11 @@ pre code {
     max-width: 1140px;
   }
 }
-
+@media (min-width: @screen-sm-min) {
+  .fluid-inline{
+    display: inline-block;
+  }
+}
 .container-fluid {
   width: 100%;
   padding-right: 15px;
