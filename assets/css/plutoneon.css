@@ -11541,7 +11541,7 @@ a:hover {
 }
 
 .header .header-content {
-  position: absolute;
+  position: sticky;
   left: 50%;
   top: 50%;
   -webkit-transform: translate(-50%, -50%);
@@ -11551,7 +11551,7 @@ a:hover {
 
 .header .header-content .header-title {
   font-size: calc(25px + (50 - 25) * ((100vw - 300px) / (1300 - 300)));
-  margin-top: 15px;
+  margin-top: 25px;
   margin-bottom: 10px;
   font-weight: bold;
 }
@@ -11625,7 +11625,7 @@ a:hover {
       -ms-flex-pack: center;
           justify-content: center;
   text-align: center;
-  padding: 1rem;
+  padding: 2rem;
   background: #80bdff !important;
 }
 
