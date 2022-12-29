@@ -3725,6 +3725,10 @@ input[type="button"].btn-block {
   padding-left: 0.75rem;
 }
 
+.nav-item.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
 .btn-group-vertical {
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
