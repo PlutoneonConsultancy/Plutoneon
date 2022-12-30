@@ -3422,7 +3422,7 @@ input[type="button"].btn-block {
   min-width: 10rem;
   padding: 0.5rem 0;
   margin: 0.125rem 0 0;
-  font-size: 1rem;
+  font-size: 0.875rem;
   color: #1f1001;
   text-align: left;
   list-style: none;
@@ -3589,7 +3589,7 @@ input[type="button"].btn-block {
   width: 100%;
   padding: 0.25rem 1.5rem;
   clear: both;
-  font-weight: 200;
+  font-weight: 300;
   color: #212529;
   text-align: inherit;
   white-space: nowrap;
