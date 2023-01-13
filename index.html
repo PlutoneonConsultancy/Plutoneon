@@ -262,12 +262,30 @@
 				    <iframe title="Plutoneon Consultancy" src="https://plutoneonconsultancy.com/" style="border: 3px solid #a3902a " loading="lazy" 
 					    scrolling="no"><a href="src="https://plutoneonconsultancy.com/" rel="noreferrer noopener" target="_blank</a></iframe>
 			</div>
-			<div class="container page-container">
-				<div class="col-md-10 col-lg-8 m-auto">
-				    <iframe title="Wise Old Quotes" src="https://youtu.be/amzSyx8Alzk" style="border: 3px solid #a3902a " loading="lazy" 
-					    scrolling="no"><a href="src="https://youtu.be/amzSyx8Alzk" rel="noreferrer noopener" target="_blank</a></iframe>
-			</div>
-		</div>
+				<div class="w3-content w3-section" style="max-width:1080px">
+						  <img class="mySlides" src="assets/imgs/mySlides/Ancient Philosophers' Life Lessons01.opti.webp" alt="Quotes" style="width:100%" loading="lazy">
+						  <img class="mySlides" src="assets/imgs/mySlides/Sigmund Freud's Quotes 01.opti.webp" alt="Quotes" style="width:100%" loading="lazy">
+						  <img class="mySlides" src="assets/imgs/mySlides/Ancient Philosophers' Life Lessons02.opti.webp" alt="Quotes" style="width:100%" loading="lazy">
+						  <img class="mySlides" src="assets/imgs/mySlides/Sigmund Freud's Quotes 02.opti.webp" alt="Quotes" style="width:100%" loading="lazy">
+						  <img class="mySlides" src="assets/imgs/mySlides/Ancient Philosophers' Life Lessons03.opti.webp" alt="Quotes" style="width:100%" loading="lazy">
+						  <img class="mySlides" src="assets/imgs/mySlides/Sigmund Freud's Quotes 03.opti.webp" alt="Quotes" style="width:100%" loading="lazy">
+						  <img class="mySlides" src="assets/imgs/mySlides/Ancient Philosophers' Life Lessons04.opti.webp" alt="Quotes" style="width:100%" loading="lazy">
+						  <img class="mySlides" src="assets/imgs/mySlides/Sigmund Freud's Quotes 04.opti.webp" alt="Quotes" style="width:100%" loading="lazy">
+						  <img class="mySlides" src="assets/imgs/mySlides/Ancient Philosophers' Life Lessons05.opti.webp" alt="Quotes" style="width:100%" loading="lazy">
+						  <img class="mySlides" src="assets/imgs/mySlides/Sigmund Freud's Quotes 05.opti.webp" alt="Quotes" style="width:100%" loading="lazy">
+						  <img class="mySlides" src="assets/imgs/mySlides/Ancient Philosophers' Life Lessons06.opti.webp" alt="Quotes" style="width:100%" loading="lazy">
+						  <img class="mySlides" src="assets/imgs/mySlides/Sigmund Freud's Quotes 06.opti.webp" alt="Quotes" style="width:100%" loading="lazy">
+						  <img class="mySlides" src="assets/imgs/mySlides/Ancient Philosophers' Life Lessons07.opti.webp" alt="Quotes" style="width:100%" loading="lazy">
+						  <img class="mySlides" src="assets/imgs/mySlides/Sigmund Freud's Quotes 07.opti.webp" alt="Quotes" style="width:100%" loading="lazy">
+						  <img class="mySlides" src="assets/imgs/mySlides/Ancient Philosophers' Life Lessons08.opti.webp" alt="Quotes" style="width:100%" loading="lazy">
+						  <img class="mySlides" src="assets/imgs/mySlides/Sigmund Freud's Quotes 08.opti.webp" alt="Quotes" style="width:100%" loading="lazy">
+						  <img class="mySlides" src="assets/imgs/mySlides/Ancient Philosophers' Life Lessons09.opti.webp" alt="Quotes" style="width:100%" loading="lazy">
+						  <img class="mySlides" src="assets/imgs/mySlides/Sigmund Freud's Quotes 09.opti.webp" alt="Quotes" style="width:100%" loading="lazy">
+						  <img class="mySlides" src="assets/imgs/mySlides/Ancient Philosophers' Life Lessons10.opti.webp" alt="Quotes" style="width:100%" loading="lazy">
+						  <img class="mySlides" src="assets/imgs/mySlides/Sigmund Freud's Quotes 10.opti.webp" alt="Quotes" style="width:100%" loading="lazy">
+						  <img class="mySlides" src="assets/imgs/mySlides/Sigmund Freud's Quotes 11.opti.webp" alt="Quotes" style="width:100%" loading="lazy">	
+						</div>
+				</div>
 
             <!-- footer -->
             <footer class="footer">
@@ -290,6 +308,24 @@
 
     <!-- plutoneon js -->
     <script src="assets/js/plutoneon.js"></script>
+					
+	<!-- Scripts -->
+			<script>
+				var myIndex = 0;
+				carousel();
 
+				function carousel() {
+				  var i;
+				  var x = document.getElementsByClassName("mySlides");
+				  for (i = 0; i < x.length; i++) {
+				    x[i].style.display = "none";  
+						  }
+				  myIndex++;
+				  if (myIndex > x.length) {myIndex = 1}    
+				  x[myIndex-1].style.display = "block";  
+				  setTimeout(carousel, 2000); // Change image every 2 seconds
+						}
+						</script>
+					
 </body>
 </html>
